@@ -1,6 +1,6 @@
 export const environment = {
-  name: 'Michael Solati',
-  shortName: 'Michael',
+  name: 'Daniel Effiong',
+  shortName: 'Daniel',
   description:
     "I'm an experienced web developer with 7+ years in front-end development and expertise in leveraging web capabilities to deliver scalable software solutions.",
   blog: {
